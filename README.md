@@ -24,5 +24,4 @@ Permite crear, actualizar, buscar y eliminar productos, así como subir y descar
 
 \- H2 / MySQL
 
-\- Maven
 
